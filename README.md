@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**kajaltupe-02/kajaltupe-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Kajal Tupe 👋  
 
-Here are some ideas to get you started:
+🎓 *Computer Engineer | 2025 Pass-out*  
+💻 Web Developer | FrontEnd Developer | Code Enthusiast | Problem Solver  
+🚀 Passionate about building scalable websites and solving real-world problems with clean, efficient code.  
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Technical Skills  
+
+*Programming Languages:* Java, Python, C, C++  
+*Web Technologies:* HTML, CSS, JavaScript, Bootstrap
+*Databases Management:*  SQL, MySQL  
+*Tools & IDEs:* VS Code, Eclipse, Jupyter Lab  
+*Version Control:* Git, GitHub  
+*Methodologies:* SDLC & OOPs concepts  
+
+---
+
+## 📂 Projects  
+
+- *Voice Activated Desktop Assistant* – A smart assistant for desktop automation.  
+- *Portfolio Website* – Personal portfolio showcasing skills and projects.  
+- *Smart Dustbin using Arduino Uno 
+
+---
+
+## 🏆 Achievements & Certifications  
+- Java Programming (Coding Seekho, 2025)
+- Web Development (Coding Seekho, 2025) 
+- Secured 2nd Rank In Engg (PKTC, Pune-2025)                   
+
+---
+
+## 📫 How to reach me ! 
+
+  
+💼 [LinkedIn](https://www.linkedin.com/in/kajal-tupe)  
+📧 Email: *kajaltupe02@gmail.com*  
+📍 Pune, India  
+
+---
+
