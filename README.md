@@ -22,7 +22,7 @@ Methodologies:  SDLC & OOPs concepts
 ## 📂 Projects  
 
 - *Voice Activated Desktop Assistant* – A smart assistant for desktop automation.  
-- *Portfolio Website* – Personal portfolio showcasing skills and projects.  
+- *Portfolio Website* -  (  https://kajaltupe-portfolio.netlify.app/ )
 - *Smart Dustbin using Arduino Uno 
 
 ---
