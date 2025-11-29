@@ -11,7 +11,7 @@
 ## ⚡ Technical Skills  
 
 Programming Languages: Java, Python, C, C++  
-Web Technologies: HTML, CSS, JavaScript, Bootstrap, ReactJS
+Web Technologies: HTML, CSS, JavaScript, Bootstrap, ReactJS 
 Databases Management:   SQL, MySQL  
 Tools & IDEs:  VS Code, Eclipse, Jupyter Lab  
 Version Control:  Git, GitHub  
